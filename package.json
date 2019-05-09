@@ -1,0 +1,11 @@
+{
+  "name": "minimalist",
+  "version": "0.0.1",
+  "description": "Minimal framework for frontend development with state management and DOM manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Nick Griffiths",
+  "license": "ISC"
+}
