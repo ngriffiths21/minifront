@@ -5,8 +5,8 @@
   "scripts": {
     "test": "standard"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "repository": "https://github.com/ngriffiths21/minimalist.git",
   "author": "Nick Griffiths",
-  "private": "true",
-  "license": "UNLICENSED"
+  "license": "MIT"
 }
