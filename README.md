@@ -1,4 +1,4 @@
-# Minimalist framework
+# minifront framework
 
 Simplified frontend development with state management, DOM manipulation, and control over data flow.
 
