@@ -1,5 +1,5 @@
 {
-  "name": "minimalist",
+  "name": "minifront",
   "version": "0.0.1",
   "description": "Minimal framework for frontend development with state management and DOM manipulation",
   "scripts": {
